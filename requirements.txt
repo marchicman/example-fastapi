@@ -45,7 +45,6 @@ numpy==1.22.3
 OpenTimelineIO==0.14.1
 ordered-set==4.0.2
 packaging==20.9
-pacman-mirrors==4.23.2
 paramiko==2.10.3
 parso==0.8.2
 pathspec==0.9.0
