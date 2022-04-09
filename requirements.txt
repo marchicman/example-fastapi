@@ -65,7 +65,6 @@ pycparser==2.21
 pycups==2.0.1
 pycurl==7.45.0
 Pygments==2.11.2
-PyGObject==3.42.0
 PyNaCl==1.4.0
 pyOpenSSL==21.0.0
 pyparsing==3.0.1
