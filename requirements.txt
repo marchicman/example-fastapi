@@ -34,7 +34,6 @@ ipython-genutils==0.2.0
 jedi==0.18.1
 jsonschema==3.2.0
 keyutils==0.6
-louis==3.21.0
 manjaro-sdk==0.1
 Markdown==3.3.6
 matplotlib-inline==0.1.3
