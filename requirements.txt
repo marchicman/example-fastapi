@@ -85,7 +85,6 @@ six==1.16.0
 sqlparse==0.4.2
 stack-data==0.2.0
 systemd-python==234
-team==1.0
 texttable==1.6.4
 toml==0.10.2
 tomli==2.0.0
