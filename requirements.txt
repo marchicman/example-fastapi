@@ -7,7 +7,6 @@ attrs==21.4.0
 backcall==0.2.0
 bcrypt==3.2.0
 black==22.1.0
-btrfsutil==5.16.2
 CacheControl==0.12.6
 cached-property==1.5.2
 ceph==1.0.0
