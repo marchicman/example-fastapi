@@ -40,7 +40,6 @@ meson==0.61.2
 more-itertools==8.10.0
 msgpack==1.0.3
 mypy-extensions==0.4.3
-netsnmp-python==1.0a1
 npyscreen==4.10.5
 numpy==1.22.3
 OpenTimelineIO==0.14.1
