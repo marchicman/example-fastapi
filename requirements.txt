@@ -34,7 +34,6 @@ ipython-genutils==0.2.0
 jedi==0.18.1
 jsonschema==3.2.0
 keyutils==0.6
-lensfun==0.3.3
 LibAppArmor==3.0.4
 libtorrent===2.0.5-build-libtorrent-rasterbar-src-libtorrent-rasterbar-2.0.5-bindings-python
 lit==13.0.1.dev0
