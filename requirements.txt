@@ -9,7 +9,6 @@ bcrypt==3.2.0
 black==22.1.0
 CacheControl==0.12.6
 cached-property==1.5.2
-cephfs==2.0.0
 cephfs-shell==0.0.1
 certifi==2021.10.8
 cffi==1.15.0
